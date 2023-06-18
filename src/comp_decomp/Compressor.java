@@ -30,7 +30,7 @@ public class Compressor {
     }
 
     public static void main(String[] args) throws IOException{
-        File path = new File("/Users/navne/Downloads/Compressor/compressordecompressor/Testfile");
+        File path = new File("");
         method(path);
     }
 }
