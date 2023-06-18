@@ -24,6 +24,6 @@ public class Decompressor {
         fis.close();
     }
     public static void main(String[] args){
-        File path = new File("/Users/navne/Downloads/Compressor/compressordecompressor/CompressedFile.gz");
+        File path = new File("");
     }
 }
